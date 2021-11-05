@@ -1,0 +1,8 @@
+a = input().split()
+first = int(a[0])
+two = int(a[1])
+three = int(a[2])
+print((first + two) % three)
+print(((first % three) + (two % three)) % three)
+print((first * two) % three)
+print(((first % three) * (two % three)) % three)
