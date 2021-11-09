@@ -9,6 +9,6 @@ for i in range(10):
 
 # 중복 check
 for j in b:
-    if j not in count:
-        count.append(j)
+    if j not in count: # 만약 count에 j가 없다면
+        count.append(j) # count에 j를 추가
 print(len(count))
