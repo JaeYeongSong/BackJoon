@@ -5,6 +5,7 @@ Backjoon Repositorie는 백준 알고리즘을 공부하기 위해,
 
 ### Tech
 
--   python
+-   Python
+-   Java
 
 모든 파일을 수정, 및 재배포 가능합니다.
